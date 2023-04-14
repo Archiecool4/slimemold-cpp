@@ -5,16 +5,10 @@ This is a *Physarum* slime mold simulation based on [this paper](./slimemold_pap
 sudo apt-get install freeglut3-dev
 ```
 
-To compile the demo, simply run,
+To run the demo,
 
 ```
-make
-```
-
-To run,
-
-```
-./bin/demo.out
+make run
 ```
 
 After running for a little while, the demo should converge to something that looks like this,

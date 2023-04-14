@@ -1,0 +1,13 @@
+# Doxyfile 1.8.13
+
+PROJECT_NAME                = "slimemold-cpp"
+PROJECT_BRIEF               = "A C++ slime mold simulation"
+INPUT                       = ./src ./include
+RECURSIVE                   = YES
+OUTPUT_DIRECTORY            = ./docs
+PREDEFINED                  = __cplusplus
+GENERATE_LATEX              = NO
+DISTRIBUTE_GROUP_DOC        = YES
+EXTRACT_ALL                 = YES
+SOURCE_BROWSER              = YES
+INLINE_SOURCES              = YES
