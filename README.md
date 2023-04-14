@@ -16,3 +16,7 @@ To run,
 ```
 ./bin/demo.out
 ```
+
+After running for a little while, the demo should converge to something that looks like this,
+
+![Screenshot of Demo](./images/demo.png)
